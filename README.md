@@ -1,0 +1,2 @@
+# AWS-docs
+Publicly accessible
